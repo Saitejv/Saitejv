@@ -18,7 +18,7 @@
 ## 🚀 Experience & Projects  
 
 **Software Engineer Intern — KLA** (May 2025 – Aug 2025)  
-- Built a **production-grade agentic AI system** enabling natural-language workflow automation, cutting internal process time by **90%**.  
+- Built an ** agentic AI system** enabling natural-language workflow automation, cutting internal process time by **90%**.  
 - Architected a **scalable client-server framework** with MCP + JSON-RPC for agent orchestration.  
 - Integrated multiple LLM providers (LLaMA, Azure OpenAI, Gemma) with **RAG + ChromaDB**, deploying via Flask, asyncio, and Docker.  
 
@@ -43,7 +43,6 @@
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saitejv&show_icons=true&theme=default&hide=contribs)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saitejv&layout=compact&theme=default)  
 
 ---
@@ -61,7 +60,6 @@
 
 📧 [saitej.velaga@gmail.com](mailto:saitej.velaga@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/saitejv)  
-🐙 [GitHub](https://github.com/Saitejv)  
 
 ---
 
