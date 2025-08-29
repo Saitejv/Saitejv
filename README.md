@@ -49,10 +49,8 @@
 
 ## 🌱 Currently Learning  
 
-- Advanced Computer Networks (EECS 489)  
+- Computer Networks (EECS 489)  
 - Foundations of Computer Science (EECS 376)  
-- Large-scale Software Design (EECS 496)  
-- Technical Communication for Engineers (TCHNCLCM 300)  
 
 ---
 
